@@ -1,0 +1,3 @@
+class UnattackableEnemy < StandardError
+
+end
